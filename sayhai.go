@@ -4,7 +4,7 @@ package sayhai
 // 	return "hai"
 // }
 
-// major changes
+// major changs
 func Sayhai(nama string) string {
 	return "hai" + nama
 }
